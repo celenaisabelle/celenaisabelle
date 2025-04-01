@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my first website and portfolio.
+- 🔭 I’m currently working on completing my B.A. in Computer Science.
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on web-site development for now.
 - 🤔 I’m looking for help with back-end development.
